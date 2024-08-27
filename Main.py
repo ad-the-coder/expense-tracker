@@ -12,5 +12,5 @@ with tab1:
 with tab2:
     st.write('My hobbies are to play video games and swim. I also like to make videogames and code.')
 with tab3:
-    st.write('You can contact me at vin.chinnu@gmail.com')
+    st.write('You can contact me at adithvhegde@gmail.com')
     st.write('You can also look at my youtube channel at https://www.youtube.com/channel/UCyh81jDd1g6efB7OdCHt7yA')
